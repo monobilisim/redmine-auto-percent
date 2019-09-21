@@ -1,3 +1,5 @@
 = Auto Percent
 
 Automatically sets the percent done to 100% on Resolved or Closed.
+
+This is a Redmine 4.0 compatible fork of https://github.com/escline/redmine-auto-percent.
